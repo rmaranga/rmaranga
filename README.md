@@ -3,10 +3,24 @@
 <!--
 **rmaranga/rmaranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## about myself
+Originally from Kenya currently living in the US.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+## what I am working on
+- python basics
+- **knn**
+- scrapy
+
+## currently learning
+- html
+- css
+- scikit learn
+- machine learning
+- How to create my profile in github using this [this page](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
+
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
