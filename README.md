@@ -12,7 +12,7 @@
 
 
 ## about myself
-Originally from Kenya currently living in the US.
+Really like code!
 
 
 ## what I am working on
